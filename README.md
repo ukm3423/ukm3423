@@ -49,11 +49,6 @@ to develop a comprehensive system to streamline various administrative and acade
 utilizing Spring Boot and Thymeleaf. Designed and implemented modules for purchase, sale, reports, and stock management. Utilized Spring Boot framework for rapid development and
 Thymeleaf for server-side HTML rendering.
 
-## 📈 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
 
 ## 📫 Contact Me
 
