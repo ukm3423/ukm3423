@@ -54,5 +54,5 @@ Thymeleaf for server-side HTML rendering.
 
 - Email: [ukm3423@gmail.com](mailto:ukm3423@gmail.com)
 - LinkedIn: [www.linkedin.com/in/umesh-kumar-3a372725b](https://www.linkedin.com/in/umesh-kumar-3a372725b)
-- Portfolio: [[portfolio-link](https://www.umeshkumarchamp.github.io/portfolio/)](https://umeshkumarchamp.github.io/portfolio/)
+- Portfolio: [portfolio-link](https://umeshkumarchamp.github.io/portfolio/)
 - Phone: +91 6201033951
